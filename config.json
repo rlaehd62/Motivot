@@ -1,0 +1,13 @@
+{
+    "_comment": "Column = { Intent, Query, Answer, Message} / File = { Data, Dictonary, Data_Folder }",
+    "intent": "intent",     
+    "query": "query",
+    "queries": "Queries",
+    "answer": "answer",
+    "data": "data.csv",
+    "dictionary": "user_dic.tsv",
+    "faq": "faq",
+    "faq_data": "faq.csv",
+    "data_folder": "Embedding_Data",
+    "model": "jhgan/ko-sroberta-multitask"
+}

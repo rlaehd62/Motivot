@@ -1,0 +1,13 @@
+**/wordnet.tsv
+**/wordnet.csv
+**/wordnet.pickle
+**/__pycache__
+__pycache__/
+test.py
+dump.py
+*.pt
+Embedding_Data/**
+.vscode/**
+data.csv
+faq.csv
+backup.csv
