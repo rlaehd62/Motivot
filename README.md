@@ -17,22 +17,22 @@
 
 ## 아키텍처 
 - **전체/세부 아키텍처**
-    ![전체 아키텍처](/docs/architecture1.png)
-    ![세부 아키텍처](/docs/architecture2.png)
+![전체 아키텍처](/docs/architecture1.png)
+![세부 아키텍처](/docs/architecture2.png)
 
 - **간략 배포도**
-    ![간략 배포도](/docs/architecture3.png)
+![간략 배포도](/docs/architecture3.png)
 ## 성능 평가
 > **🚨 해당 평가는 주어진 원문과 데이터를 기반으로 수행되었음을 알립니다.**
 
 > **💡 질문의 도메인은 메타버스 내의 위치에 따라서 변경되는 방식입니다.** 
 
 - **챗봇 평가**
-    ![평가1](/docs/test1.png)
-    ![평가2](/docs/test2.png)
+![평가1](/docs/test1.png)
+![평가2](/docs/test2.png)
 
 - **트래픽 평가**
-    ![트래픽 평가](/docs/measurement.png)
+![트래픽 평가](/docs/measurement.png)
 
 ## 프로젝트 후기
 > **여러 제약조건으로 초기에 계획했던 RAG 챗봇을 만들지 못한 것이 다소 아쉽다. <br> 그러나 자연어 처리, 도커, 로드 밸런싱, 트래픽 평가 등의 새로운 경험이 있기에 <br> 학습 목적으로는 다소 성공적인 프로젝트라고 생각한다.**
